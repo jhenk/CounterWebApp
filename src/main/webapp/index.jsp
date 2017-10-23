@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello GitHub!</h2>
+<h2>Hello Component Control!</h2>
 </body>
 </html>
