@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello There!</h2>
+<h2>Hello Affinity!</h2>
 </body>
 </html>
