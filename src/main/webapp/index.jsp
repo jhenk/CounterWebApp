@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello, lowly peons!</h2>
+<h2>Hello, mighty dragone!</h2>
 </body>
 </html>
 
